@@ -1,4 +1,4 @@
-# DELTA-T3-> Chat Room System
+# DELTA-T3-> Chat Room 
 
 A command-line multiplayer chat room system built with Lua featuring real-time messaging, user authentication, room management, and leaderboards.
 
