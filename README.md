@@ -14,8 +14,7 @@ A command-line multiplayer chat room system built with Lua featuring real-time m
 
 ## Quick Start
 
-### Using Docker (Recommended)
-
+### Using Docker
 1. Clone the repository
 2. Run with Docker Compose:
 ```bash
